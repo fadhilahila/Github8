@@ -17,6 +17,7 @@ public class LatihanFormatif {
             System.out.println("BILIK : 1 pintu, 2 tingkap sama saiz, 4 sisi dinding sama saiz");
             System.out.println(" ");
             
+            System.out.println(" ");
             Scanner data = new Scanner(System.in);
             
             System.out.println("Input tinggi pintu dan tekan ENTER :");
